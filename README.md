@@ -5,6 +5,7 @@
 # Vulcan-Base-Code
 
 it is vulkan base code template to generates a triangle can be used as starter for vulkan projects.
+<img alt="Triangle" width="450px" height="300px" src="triangle.png" />
 
 ## requirments
 
