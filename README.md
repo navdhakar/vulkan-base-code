@@ -1,6 +1,6 @@
 <!-- @format -->
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="vulkan.svg" />]
+<img align="left" alt="codeSTACKr.com" width="100px" src="vulkan.svg" />
 
 # Vulcan-Base-Code
 
